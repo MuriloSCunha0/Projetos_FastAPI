@@ -1,0 +1,2 @@
+Arquivo CSV compactado.
+Hash SHA256 do arquivo gerado.
