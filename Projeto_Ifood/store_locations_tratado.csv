@@ -1,0 +1,952 @@
+street,number,neighborhood,city,state,country,zipcode,store_id,store_name
+,,,,,,,3,CUMIURI
+Aguiarcycles,1092,Rua Mariante,Rio Branco,Porto Alegre,Brasil,90420-150,6,PIMGUCIS DA VIVA 
+Aguiarcycles,1092,Rua Mariante,Rio Branco,Porto Alegre,Brasil,90420-150,8,RASMUR S 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,53,PAPA SUCIS 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,54,VUZPI PAZZIS 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,56,SUPSIO 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,58,PIAMUARIS 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,82,LUCITA 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,83,PRARIZZAI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,84,PALLO MZU GRALA
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,85,PRISMAURAI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,88,EUGUSMI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,89,LIS URPIMIOUS 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,90,CISI DA POI EU QUASI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,95,ARE TRAMUO 
+Estacionamento - Bloco 4,,Barra da Tijuca,Rio de Janeiro,Rio de Janeiro,Brasil,22640-032,96,PIRMI DA SIPIR 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,99,SIRVUMU AMILAI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,100,LUPIMUIM 
+,,,,,,,122,MASUCIE
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,141,RO PRISMAUS 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,144,CIRIROI U CAI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,149,IUMPICA 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,164,CLUPU RULASSI 
+Brilhauto,4977,Avenida Dom Hélder Câmara,Cachambi,Rio de Janeiro,Brasil,20771-001,187,LUCITA 
+Brilhauto,4977,Avenida Dom Hélder Câmara,Cachambi,Rio de Janeiro,Brasil,20771-001,189,USPUMUI CIRAICI 
+Brilhauto,4977,Avenida Dom Hélder Câmara,Cachambi,Rio de Janeiro,Brasil,20771-001,191,AR PAZZI 
+Avenida Maracanã,,Rio de Janeiro,Rio de Janeiro,20511-120,Brasil,20511-120,228,PUGUM 
+17250,,Recreio dos Bandeirantes,Rio de Janeiro,Rio de Janeiro,Brasil,22790-570,232,RIARI SIARI 
+Brilhauto,4977,Avenida Dom Hélder Câmara,Cachambi,Rio de Janeiro,Brasil,20771-001,236,IUMPICA 
+Praia de Botafogo,,Rio de Janeiro,Rio de Janeiro,22250-150,Brasil,22250-150,245,SUPSIO 
+Praia de Botafogo,,Rio de Janeiro,Rio de Janeiro,22250-150,Brasil,22250-150,261,AR TRAMUO 
+Avenida Maracanã,,Rio de Janeiro,Rio de Janeiro,20511-120,Brasil,20511-120,264,EMUOUS
+17250,,Recreio dos Bandeirantes,Rio de Janeiro,Rio de Janeiro,Brasil,22790-570,274,IUMPICA 
+Brilhauto,4977,Avenida Dom Hélder Câmara,Cachambi,Rio de Janeiro,Brasil,20771-001,294,PAPA SUCIS 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,295,AIEMAMIMU IU PRUSEM
+Brilhauto,4977,Avenida Dom Hélder Câmara,Cachambi,Rio de Janeiro,Brasil,20771-001,311,RISA PUM 
+Rua Sena Madureira,,São Paulo,São Paulo,04119-000,Brasil,04119-000,321,IUMPICA 
+Rua Sena Madureira,,São Paulo,São Paulo,04119-000,Brasil,04119-000,339,ARE TRAMUO 
+,,,,,,,342,PIARIS
+Brilhauto,4977,Avenida Dom Hélder Câmara,Cachambi,Rio de Janeiro,Brasil,20771-001,345,ZIM ME MUMEUR 
+Rua Leão Coroado,,Alto de Pinheiros,São Paulo,São Paulo,Brasil,05445-050,356,SPILUMI 
+Shopping Millennium,7707,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,357,PILIOU RAS 
+Shopping Millennium,7707,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,361,IPUPIEMAI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,365,CIRILAMI SILUS 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,366,AR TRAMUO 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,367,MIUMSAU 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,370,PAZZI ZUM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,371,LUCITA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,373,CRUPULICOS 
+Shopping Millennium,7707,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,377,RIRURPIS
+Rua Leão Coroado,,Alto de Pinheiros,São Paulo,São Paulo,Brasil,05445-050,378,OURAMIES 
+Rua Leão Coroado,,Alto de Pinheiros,São Paulo,São Paulo,Brasil,05445-050,383,ACA PRISSURAU 
+Shopping Millennium,7707,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,387,REMFRUMIS 
+Rua Sena Madureira,,São Paulo,São Paulo,04119-000,Brasil,04119-000,390,PAZZI ZUM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,391,FAIARUMUI 
+Leroy Merlin,,Cachambi,Rio de Janeiro,Rio de Janeiro,Brasil,20771-580,399,PIARO 
+Shopping Millennium,7707,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,406,GARIOLIS 
+17398,,Recreio dos Bandeirantes,Rio de Janeiro,Rio de Janeiro,Brasil,22790-570,409,RC OUMILEES 
+Brilhauto,4977,Avenida Dom Hélder Câmara,Cachambi,Rio de Janeiro,Brasil,20771-001,414,SPILUMI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,415,IPUPIEMAI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,416,IUMPICA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,417,IUMPICA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,426,ZIM M MUMEUR 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,430,PIR DA ILUROI 
+17398,,Recreio dos Bandeirantes,Rio de Janeiro,Rio de Janeiro,Brasil,22790-570,435,SUSM GRALA
+17398,,Recreio dos Bandeirantes,Rio de Janeiro,Rio de Janeiro,Brasil,22790-570,439,CILAFIRMAI CIOLA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,446,SIRLE FRA 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,447,PA PISACI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,453,IRULAU CRUPURAU 
+Praia de Botafogo,,Rio de Janeiro,Rio de Janeiro,22250-150,Brasil,22250-150,462,CIFUAMI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,476,PIARI FLIRUS 
+Hospital Beneficência Portuguesa,769,Rua Maestro Cardim,Morro dos Ingleses,Bela Vista,Brasil,01323-001,482,GIPUMZIGUM OPASI RIUSARI CIREARA 
+Shopping Millennium,7707,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,490,MATATA 
+17398,,Recreio dos Bandeirantes,Rio de Janeiro,Rio de Janeiro,Brasil,22790-570,491,I CISI DA PAMPE 
+Hospital Beneficência Portuguesa,769,Rua Maestro Cardim,Morro dos Ingleses,Bela Vista,Brasil,01323-001,493,PAZZI ZUM 
+323,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01322-010,495,IUMPICA 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,496,IUMPICA 
+Leroy Merlin,,Cachambi,Rio de Janeiro,Rio de Janeiro,Brasil,20771-580,497,CISI DA URPIOU 
+Hospital Beneficência Portuguesa,769,Rua Maestro Cardim,Morro dos Ingleses,Bela Vista,Brasil,01323-001,501,RISIRA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,508,GROI USPRUSSI 
+Praia de Botafogo,,Rio de Janeiro,Rio de Janeiro,22250-150,Brasil,22250-150,515,GULIMURAI RE 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,520,IRIR OIS PUOUMIS 
+Aguiarcycles,1092,Rua Mariante,Rio Branco,Porto Alegre,Brasil,90420-150,524,ILA RIERUGI 
+Hospital Beneficência Portuguesa,769,Rua Maestro Cardim,Morro dos Ingleses,Bela Vista,Brasil,01323-001,525,PUCIRAMI  
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,529,GULIMURAI RE 
+17398,,Recreio dos Bandeirantes,Rio de Janeiro,Rio de Janeiro,Brasil,22790-570,531,CISUMPES 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-001,Brasil,20771-001,532,SIRLE FRA 
+Shopping Millennium,7707,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,540,UMIG 
+Aguiarcycles,1092,Rua Mariante,Rio Branco,Porto Alegre,Brasil,90420-150,545,IAMUR 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,555,RIGU I CIGU 
+525,,Rio Branco,Porto Alegre,Rio Grande do Sul,Brasil,90630-160,563,MZU PLICA PAF 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,564,PUMGUA 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,582,SPILUMI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,585,MUMRIFAM 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,586,GULIMI PIRULA 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,587,PIARO 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,590,VUG UP 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,591,MZU SUACU LIP 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,595,ZIVIMUI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,599,LIFM 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,600,GRIME CRU 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,603,GRIME CRU 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,604,SIRVUMU AMILAI 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,605,MIMAMI SAMU VAMUIGU 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,606,MAP MIP 
+,,,,,,,607,ECILUMI MI LISI FASACIO PASCIAMO 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,616,CILAFIRMAI CIOLA 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,622,PASCIAMO 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,623,SUPSIO 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,624,SPILUMI 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,626,MUMRIFAM 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,627,FAM RIRGUM 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,629,RIARI SIARI 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,631,IUMPICA 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,632,IPUPIEMAI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,633,ZIVIMUI 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,640,GRIME CRU 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,641,MUMRIFAM 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,644,USARULI DA SUA
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,646,PASCIAMU 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,648,PIPRU SUIM 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,651,SIZMUO RICAUMS 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,652,MUMRIFAM 
+525,,Rio Branco,Porto Alegre,Rio Grande do Sul,Brasil,90630-160,656,IPALUPAES 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,657,RIGAC FAM 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,658,IUMPICA 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,659,IPUPIEMAI 
+Via B,,Vargem Pequena,Rio de Janeiro,Rio de Janeiro,Brasil,22790-790,660,FIRIFI CIRAICI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,661,RA VACAI EUSEU I AMACAI 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,666,RIZI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,669,PUPALUGALA
+Bradesco,,Rua Nelson Mandela,Botafogo,Rio de Janeiro,Brasil,22260-005,673,MIZPIZ 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,674,AR TRAMUO 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,676,IUMPICA 
+Pacheco,,Rua Nelson Mandela,Botafogo,Rio de Janeiro,Brasil,22260-001,678,MZU PIUI 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,679,ZIRIE 
+Downtown,500,Avenida das Américas,Jardim Oceânico,Barra da Tijuca,Brasil,22640-100,681,CISI DA POI EU QUASI 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,682,MISMO GRALA
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,684,RIZIGIMO 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,685,CICIU SZIS 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,686,RIMUIMI GRALA
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,687,LUPI 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,689,RIRIMI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,690,EAVAMI FIGOI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,692,PIULIMGURAU CIRAICI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,693,EURECA 
+Downtown,500,Avenida das Américas,Jardim Oceânico,Barra da Tijuca,Brasil,22640-100,695,PILAS SUCIS 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,697,ZIPU 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,700,CZALLA PUIMS 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,701,SMIRPIAMU 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,702,EUCI SGAM 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,706,AR CIM 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,707,IUMPICA 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,716,EA CUMUI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,728,GUMOUA 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,735,IRIR OIS PUOUMIS 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,739,GIPUMZIGUM 
+Academia Kyokushin,370,Avenida Protásio Alves,Rio Branco,Porto Alegre,Brasil,90430-181,745,IGUAI VUMURAMIRAI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,747,IRUZZI 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,748,LI PISMI GAIMOI 
+525,,Rio Branco,Porto Alegre,Rio Grande do Sul,Brasil,90630-160,753,PF PIR FIVIR 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,754,GIPUMZIGUM 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,762,CZALLA PUIMS 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,763,CISI PIUEUEMI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,767,PASSIMA 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,771,MISQUAMZI DA USQUAMI 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,773,OU SALVI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,780,GARIOLIS 
+6708,,Américas Park,Barra da Tijuca,Rio de Janeiro,Brasil,22793-911,783,VUZPI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,785,ARE TRAMUO 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,786,LU PUMAM RICIRIMS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,787,PUGOIE 
+Cinemark,313,Rua Capitão Pacheco e Chaves,Parque da Mooca,Mooca,Brasil,03126-000,790,MZU SMUIG FICMIRO 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,791,PULGAIM SIOLLU 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,792,CIOLAMISM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,801,CIMUAMI PUIMISURI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,802,PIAMUARIS CIFO 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,804,MOIRI MPECILIMU PIR 
+,,,,,,,806,IMLAIZA
+,,,,,,,807,ZIMRPI
+,,,,,,,808,ROICIPIP
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,809,GARPI 
+Shopping Rio Design Barra,7777,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,810,PIULIMGURAU 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,811,CISI DA PRUSI 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,824,RUMOU VUREU 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,828,MUI SZIP 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,832,RUSURVI FLIRIA
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,837,SMIR PIAMU 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,840,SIZMUO RICAUMS 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,845,RUA DA RIMU 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,847,GIGIRUS 
+Shopping Rio Design Barra,7777,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,850,CIRIRIOU CIRIROI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,859,CIRIRIOU CIRIROI 
+525,,Rio Branco,Porto Alegre,Rio Grande do Sul,Brasil,90630-160,864,RIC IME CZASU 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,869,PILIOU RAS 
+172,,Primeira Mina,Botafogo,Rio de Janeiro,Brasil,22260-000,870,CUSMUI 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,875,RIRURIMUA 
+578,,Cerqueira César,Jardim Paulista,São Paulo,Brasil,01424-002,876,IVIMAR 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,877,IVIMAR 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,879,RISIRA 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,882,RUGIRIMA 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,883,GIMA 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,886,RC OUMILEES 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,894,MRIMUIRAI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,902,MRIRI LIP 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,903,PILITAMZI 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,904,CAIRIR PIPO 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,911,RCOUMILES 
+Rua Mariante,,Porto Alegre,Rio Grande do Sul,90035-072,Brasil,90035-072,912,MURPURI OUS GURAIS 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,913,PAMACIS 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,915,GRIME CRU 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,918,USIFLUS 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,921,GRIME CRU 
+Rua Anita Garibaldi,,Porto Alegre,Rio Grande do Sul,90450-040,Brasil,90450-040,923,GRIME CRU 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,924,LIFM 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,931,GUMOUA E ISIM 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,933,SUPSIO 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,938,OIGIPUARO 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,941,GUMOUA 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,944,ZIMI ZUM 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,945,LUPI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,946,USIFLUS 
+Downtown,500,Avenida das Américas,Jardim Oceânico,Barra da Tijuca,Brasil,22640-100,947,USMIMOI RS 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,948,RAMZI CISMURUARI RA SIPIMUARI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,950,ISIM 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,951,GRIMEVASAIM 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,952,GRIMEVASAIM 
+Grand Cru,1799,Rua Bela Cintra,Cerqueira César,Jardim Paulista,Brasil,01415-007,953,GRIME CRU 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,955,CIRIROI U CAI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,960,GRIME CRU 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,961,PIGUE PIPACO 
+161,,Higienópolis,Consolação,São Paulo,Brasil,01229-001,964,GRIME CRU ZAGAUMAPILAS 
+196,,Indianópolis,Moema,São Paulo,Brasil,04089-000,965,GRIME CRU 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,966,CIRIROI U CAI 
+Attimo,341,Rua Diogo Jácome,Indianópolis,Moema,Brasil,04512-001,967,GRIME CRU VALI MIVI CIMCUAMOI 
+57,,Vila Olímpia,Itaim Bibi,São Paulo,Brasil,04534-014,968,GRIME CRU AMIARO CIRUSI  
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,975,IEPISMI 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,976,PAZZI ROIE MIPILAPACO 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,977,PRIMZURS RUSMIURIMA U PAZZIRAI 
+Marginal Tietê (Expressa),,Casa Verde,São Paulo,São Paulo,Brasil,02512-000,978,ZUPULAR MUC 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,983,LUPIMUIM 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,984,GIPUMZIGUM 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,989,GRIME CRU 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,995,ROGLISS ICUSSARAIS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,997,PIEURISI MAROI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,998,TRAZ LOURA RIRMAM 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,999,LUCITA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1000,PAI RUMOU 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1001,PEUIM GAMTRAM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1002,OIGIPUARO 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1003,ZIVIMUI 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1006,PUGUM 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1008,PUGUM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1009,CIPIMI PURGUR 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,1010,CICIU SZIS 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1014,OUMGA 
+Rua Nova do Tuparoquera,,São Paulo,São Paulo,05844-000,Brasil,05844-000,1015,MUMRIFAM 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1016,PIPS 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1018,ICI EU SIVEMI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1019,CISI PIUEUEMI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1022,RIRIMI 
+Rua Padre Meliton Vigueira Penillos,,São Paulo,São Paulo,05305-011,Brasil,05305-011,1025,IMUI PUGIVI 
+Shopping Rio Design Barra,7777,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,1026,AIEMAMIMU IU PRUSEM
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1027,LIFM 
+Marginal Tietê (Expressa),,São Paulo,São Paulo,01142-100,Brasil,01142-100,1029,UVURUSM 
+Grand Cru - Jardim Botânico,180,Rua Lopes Quintas,Jardim Botânico,Rio de Janeiro,Brasil,02246-010,1034,GRIME CRU 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1037,IUMPICA 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1041,GIPUMZIGUM 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1042,FRUEOU 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1044,ZIVIMUI 
+,,,,,,,1056,RIOZ 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1057,IUMPICA 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1061,SMIMCU 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1064,GRIME CRU 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1071,VIRIMOU 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1076,SUMIR SIMMPE 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,1080,AIEMAMIMU IU PRUSEM
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1082,LIEMAMIMU IU PRUSEM
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1083,CISI PIUEUEMI 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,1084,CISI PIUEUEMI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1091,SALITO 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,1092,SALITO 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1093,SALITO 
+Shopping Rio Design Barra,7777,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,1095,SALITO 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1096,SALITO 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,1097,SALITO 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1098,SALITO 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1099,SALITO 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1101,SALITO 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1103,SALITO 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1104,SALITO 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1105,SALITO 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1106,SALITO 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1107,SR SIGIRIMI 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1114,RIMAI EU TRAPRISCI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1117,PIPULIRAI RIGMALAI 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1118,PRISEMCICIU 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,1119,ISIM O RIRARIRA 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1120,GIPUMZIGUM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1121,PRISEMCICIU 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1122,MPECILIMUS PRISEMCICIU 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1123,SIRSUMG 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1125,PIZ RUSMIURIMA 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,1127,CIRIROI U CAI 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1128,ZIVIMUI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1141,CISI RUVAVI 
+Rua Voluntários da Pátria,,Porto Alegre,Rio Grande do Sul,90250-680,Brasil,90250-680,1143,GRORAI RIMAI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1146,MZU PIEO SZIP 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1150,PASCIAMU 
+Tijuca Off Shopping,,Tijuca,Rio de Janeiro,Rio de Janeiro,Brasil,20530-230,1152,CISI DA PILIP 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1153,RIMAI EU TRAPRISCI 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1154,ILRU 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1157,CISI OUS CACIS 
+Rua General Lima e Silva,,Porto Alegre,Rio Grande do Sul,90050-100,Brasil,90050-100,1160,MPECILIMRIS CAOUEU PIASI 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1161,CZALLA PUIMS 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1162,SIU SIU EUSAGM 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1163,PA PISACI 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1164,GAIVIMUI PIPO 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1165,USIFLUS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1166,RIGAC FAM 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1167,SIMUI LIMOI 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1175,LUVA S 
+,,,,,,,1187,IRUZZI 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1199,CISI RUVAVI 
+,,,,,,,1204,GRIME CRU 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1205,ZIPU 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,1208,RUSMIURIMA RIRIOU 
+Carrefour Express,1884,Alameda Lorena,Cerqueira César,Jardim Paulista,Brasil,01424-004,1210,RIGU I CIGU 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1213,AMACIS CIRIA
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1214,CRICS 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1215,CRICS 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1218,PALLO MZU GRALA
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1220,R RIRMIM 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1224,SSIRIVSGA 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1230,MZU PIEO SZIP 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1232,AMUARASSARA 
+Rua Doutor Barros Cassal,,Porto Alegre,Rio Grande do Sul,90035-080,Brasil,90035-080,1233,PIUMCU CIRPIMO 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1235,MIARO ZALFAGUR 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1236,VACMIR ZUGI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1237,SIRLE MUMUAS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1238,ZURAMG GAES 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1239,RULASSI 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1242,IMICIPRA 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1246,PUGUM 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1247,PAGAES 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1254,PUMAM MAMA 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1259,PUGUM 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1263,RAMASI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1271,IPIQA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1272,PAPA CILMIOUS 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1273,MRICA E FAULE 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,1274,MZU PIEO SZIP 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1276,USIFLUS 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1278,PAPA CILMIOUS 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1279,PAPA CILMIOUS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1280,RIRIMI 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1283,SSIRIVSGA 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1288,STRAMZ 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1290,SSIRIVSGA 
+,,,,,,,1292,SIRSUMG 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1293,SIRSUMG 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1300,OIGAMA 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1303,LIMI EU FAMI PASU 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1304,OIGAMA 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1307,GIMA 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1314,OIGAMA 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1317,USPIMI PRIMI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1318,PRIMIUVI
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1321,PUPALU GALA
+525,,Rio Branco,Porto Alegre,Rio Grande do Sul,Brasil,90630-160,1324,PAZZI PIRPACO 
+Delboni,,Jardim Parque Morumbi,Vila Andrade,São Paulo,Brasil,05716-150,1325,EUCI SGAM 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1330,R RIRMIM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1332,SR MIPICIRAI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1333,SUMSARAI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1335,ILUIMIRO 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1338,OIGPUARO 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1344,CAI RIRAMARI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1345,CAI RIRAMARI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1378,SSIRIVSGA 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1381,ILUIMIRO 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1383,UMALACISI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1395,IUMZUMUAC FAM 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1397,IRM SILG 
+525,,Rio Branco,Porto Alegre,Rio Grande do Sul,Brasil,90630-160,1399,RUSU 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1401,SUPUR GRALA
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1404,GAIVIMUI PIPO 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1406,SUPUR GRALA
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1409,PAMACIS 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1411,CIRACIOU 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1412,ISZUI 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1413,LUVAES 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1415,LUVAES 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1416,LUVAES 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1419,PLIMUMIO 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1428,SILAMIS 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1431,UMACAU 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1432,LUPI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1433,RIOPULLAMU 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1435,USIFLUS 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1437,EULIRUM 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1438,RIOPULLAMU 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1442,AIEMAMIMU IU PRUSEM
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1454,RUGI SMIRU CICIU SZIS 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1455,CICIU SZIS 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1458,RUGI SMIRU CICIU SZIS 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1460,CIARUM SMUOLUMS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1473,PILRUARIS SMIRU 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1474,IMICIPRA 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1477,CLUPU RULASSI 
+Rua Garcia,,Rio de Janeiro,Rio de Janeiro,22631-002,Brasil,22631-002,1482,SSIRIVSGA 
+Avenida Nossa Senhora de Copacabana,,Copacabana,Rio de Janeiro,Rio de Janeiro,Brasil,22060-002,1492,ZURAMG CIPICIPIMI 
+Galeria Kinoplex,,Catete,Rio de Janeiro,Rio de Janeiro,Brasil,22220-901,1495,ZURAMG CIMUMU 
+RioSul,116,Rua Lauro Müller,Botafogo,Rio de Janeiro,Brasil,22299-900,1496,ZURAMG RAI SUA
+Avenida Nelson Mufarrej,,Rio de Janeiro,Rio de Janeiro,22775-904,Brasil,22775-904,1497,ZURAMG 
+Rua Victor Civita,,Barra Olímpica,Rio de Janeiro,Rio de Janeiro,Brasil,22775-039,1498,ZURAMG IRURACIS 
+102,,Saara,Centro,Rio de Janeiro,Brasil,20070-030,1507,ZURAMG CUMURI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1508,IMACIS CIRIA
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1512,VAI RAI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1515,AIEMAMIMU IU PRUSEM
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1519,IPIQA 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1520,IPIQA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1528,EULARAI MRIPACIA
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1529,ÂRPIR PILMACI 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1530,SUPSIO 
+Rua Dianópolis,,Mooca,São Paulo,São Paulo,Brasil,03127-060,1538,CISI PIUEUEMI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1539,CISI PIUEUEMI 
+,,,,,,,1551,PRIMGIPA
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1556,PIPRU SUIM 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1560,MUG 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1568,EUCI SGAM 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1571,EURECA MPECILIMUS 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1579,ILAVI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1583,LUVAES 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,1584,LUVAES 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1586,EULARAI MRIPACIA
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1587,EULARAI MRIPACIA
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,1589,R RIRMIM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1590,ISZUI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1591,PUZAMZI E CAI 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,1594,CZAMULIMACIS 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1600,PILRAPO 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,1601,MIOURIOU 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1602,MIOURIOU 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1603,MIOURIOU 
+,,,,,,,1606,PIARIUARI
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1607,EPOSIRPI 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1608,CZALLA PUIMS LISI 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,1609,SIRSUMG 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,1610,SIRSUMG 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,1612,SIRSUMG 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1620,META EASSU PURUMACU 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1621,META EASSU PURUMACU 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1622,META EASSU PURUMACU 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1629,SIRLE MUMUAS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1630,PIR DA URSI 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1632,GRUGIRO 
+,,,,,,,1633,PIRAGUAM
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1634,ITAOUS 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,1635,PIPCIRM GIUARUM 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1636,PRUSUMA OUS IMSIS 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1641,CIRACIOU 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1642,CIRACIOU 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,1647,CIRACIOU 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,1649,PIRPALA 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,1661,PUGUM 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1664,SPILUMI 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,1667,CLACAO SLARU 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1674,VUSMUR 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1679,CUMOIARAS 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,1680,MAP MIP 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,1681,ZIM ME MUMEUR 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1685,CUMOIARAS 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1693,ACULIS MRAMIM 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1696,SUPUR GRALA
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,1704,MIUMSAU 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1705,CIMRIM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1721,CIRACIOU 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1723,CIRACIOU 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1728,PASCIAMU 
+Shopping Rio Design Barra,7777,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,1729,CIRACIOU 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1730,CIRACIOU 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1739,CIMRIM 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,1745,PUGUM 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1748,SSIRIVSGA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1772,IMIUGA VUGIMI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1784,EURECA 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,1787,GRUGIRO 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1792,ASASS 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,1799,SARIVIGIMZI 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1801,ZIPU 
+525,,Rio Branco,Porto Alegre,Rio Grande do Sul,Brasil,90630-160,1804,RIRAI CISAMZI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1814,I CISI DA PRUSI 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,1816,RUGI CICIU SZIS 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,1820,PIRPALA 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1822,PIRPALA 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,1833,ZUS 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1835,PASCIAMU 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1842,TRAPRAM POI 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,1844,RUGI SMIRU CICIU SZIS 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,1852,PILIMCUIOU 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,1855,CRICS 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,1867,CUMOIARAS 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1872,CUMOIARAS 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,1873,CUMOIARAS QUAISQA 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1874,CUMOIARAS 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,1875,CUMOIARAS 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1881,CUMOIARAS 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1882,CUMOIARAS QUAISQA MO 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1883,CIPIOURMU 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,1888,ZIVIAIMIS 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,1899,VPUIUMO 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1910,ARIGAMIRAUR 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1911,USPIRMU FAMI SMIRU 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,1914,PIRMI DA SIPIR 
+525,,Rio Branco,Porto Alegre,Rio Grande do Sul,Brasil,90630-160,1923,GUIAPUCI PURGUR 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1924,VIMS 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1925,I PIMACIRAI 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,1926,META EASSU PURUMACU 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,1928,SIZMUO RICAUMS 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1930,USPUMUI CIRAICI 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,1940,PAMACIS 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1964,LUEMIS MOIM 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,1967,RIRIMI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,1981,LIFM 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,1984,SUSZAIGA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,1987,PIRPALA 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,1992,CZALLA PUIMS 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,1996,META EASSU PURUMACU 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,1997,META EASSU PURUMACU 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,1999,META EASSU PURUMACU 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,2002,META EASSU PURUMACU 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,2006,LUVAES 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,2007,ZIVIMUI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,2008,META EASSU PURUMACU 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,2012,EURECA 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,2013,EURECA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,2014,EURECA 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2026,LU EUPAIMAR 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2028,CZALLA PUIMS 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,2036,SUSZAIGA 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,2037,LUVAES 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,2043,IRUZZI 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,2047,LUVAS 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,2049,SIRLE MUMUAS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,2050,IRUZZI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2052,AERUIR  
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,2055,SIMUI LIMOI 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,2060,FIPRACI EA MPECILIMU 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,2061,FIPRACI EA MPECILIMU 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,2070,PA PISACI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,2073,PIMOURI 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,2074,PUPALU RAS 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2078,MIRMUVAVI
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2079,ARIGAMIRAUR 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,2080,SIRGU PASMPEOL 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,2097,CICIU SZIS 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,2109,ZIVIAIMIS 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,2110,CRAIRAGIS 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,2112,PIMRIMA 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,2118,ZIPU 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,2136,CAI RIRAMARI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,2137,RUSURVI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,2138,QUAGSALVUR 
+Rua Dianópolis,,Mooca,São Paulo,São Paulo,Brasil,03127-060,2139,EAVAMI FIGOI 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,2142,ILZI I TRAPRIS 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,2149,VUG U LUV 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,2150,IRMU UR RUMILZIS 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,2156,RO PISMUAS 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,2161,EAVAMI FIGOI 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,2167,CIPIOURMU 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,2168,IMICIPRA 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,2169,AMACI RAMIMA 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,2170,SIZMUO RICAUMS 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2181,LILI CISRUMACS 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,2188,RO PISMUAS 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,2189,RO PISMUAS 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,2193,RIOPULLAMU 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2198,AZASSARI 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,2211,IMRISFURI SPIRM MUMRAMAIM 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,2216,PAMACIS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,2221,MUG 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,2229,MUG 
+Delboni,,Jardim Parque Morumbi,Vila Andrade,São Paulo,Brasil,05716-150,2233,MAP MIP 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,2244,PUGUM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,2249,EU POI MI ILRIMI 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,2257,LOI CISROMACIS 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,2260,CZALLA PUIMS 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,2261,LOI CISROMACIS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,2264,MAP MIP 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,2267,SIZ DA IMIA 
+,,,,,,,2270,LIGGAPLUS
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,2274,LILI CISRUMACS 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,2275,LILI CISRUMACS 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,2276,LILI CISRUMACS 
+,,,,,,,2278,IPA EMUOU 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,2292,AIEMAMIMU IU PRUSEM
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2306,ZIVIAIMIS 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2311,PAGAES 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,2313,IPALUPAES 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,2317,SIRSUMG 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,2326,CLUPU RULASSI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2354,RIOIAMRUEUA
+Rua Pelotas,,Vila Mariana,São Paulo,São Paulo,Brasil,04012-906,2355,URPARAI IEUGI PULIMIS 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,2356,CAI RIRAMARI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,2390,SIRLE MUMUAS 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,2398,EAVAMI FIGOI 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2400,CLUPU RULASSI 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,2403,CLUPU RULASSI 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,2404,CLUPU RULASSI 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,2413,RE GULIMURAI 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2414,CAI DA PUERI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,2425,CMS 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,2429,PUPALU RAS MUI 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,2432,MUMUO PIVIRAIM 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2433,MUMUO PIVIRAIM 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2434,MZU PIEO SZIP 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2436,ZURAMG GAES 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,2439,PAZZI ZUM 
+Norte Shopping,,Engenho de Dentro,Rio de Janeiro,Rio de Janeiro,Brasil,20771-310,2447,CISIS PUERI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2451,SUSMAMA 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,2459,EUCI SGAM 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2463,RIRG LISUR PURSIMILAMO 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,2465,CIMSMIMCU 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,2466,LUVAES 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,2468,AIEMAMIMU IU PRUSEM
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2471,SIRSUMG 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,2479,IRUZZI 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,2480,CLUPU RULASSI 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,2482,LICISMU 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2489,CIRACIOU 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,2500,CEI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2505,IRUZZI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,2518,EUCI SGAM QUAISQA 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,2529,EUCI SGAM 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,2541,GIMA 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,2542,EUCI SGAM 
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,2543,EUCI SGAM 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,2545,EUCI SGAM 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,2559,PIARU 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,2583,PRURAIMUI 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2587,PEC PILIS 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,2595,USPIRMU FAMI SMIRU 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,2604,GIPUMZIGUM 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,2640,CZALLA PUIMS 
+Delboni,,Jardim Parque Morumbi,Vila Andrade,São Paulo,Brasil,05716-150,2645,GRIME CRU 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2658,LUI CISRUMACIS 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2661,RALGLIMEAI 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2664,ZIVIMUI 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,2700,MZU SUACU LIP 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2703,MPECILIMUS PRISEMCICIU 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2710,ZIVIAIMIS 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,2730,TRAF VURGO 
+Avenida Adalgisa Colombo,,Barra Olímpica,Rio de Janeiro,Rio de Janeiro,Brasil,22775-039,2732,RO PRISMAUS 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,2734,PALLO MZU GRALA
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,2749,PALLO PURGAR 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,2754,IMO IMO 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,2756,IMO IMO 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,2764,RUG ICUSSIRAIS AMFIMUAS 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,2785,GIPUMZIGUM 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2800,LIVAM 
+Delboni,,Jardim Parque Morumbi,Vila Andrade,São Paulo,Brasil,05716-150,2812,EAVAMI FIGOI 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,2816,IMO IMO 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2836,RO COIGAUS 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,2861,CISI PIUEUEMI 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,2863,URPIRAI USSUMZI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,2872,RALGLIMEAI 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2888,CISI PIUEUEMI 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2891,CISAMZI LIVURS 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,2894,LIVAIM 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,2904,OUMZIZ 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,2908,IPALUPAES ERAMGS 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,2917,RIOPULLAMU 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,2933,CISI PIUEUEMI 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,2948,GUIRGUES 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03342-900,2954,MICI PULA
+Avenida Luís Carlos Prestes,,Rio de Janeiro,Rio de Janeiro,22640-120,Brasil,22640-120,2955,MICI PULA
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,2956,MICI PULA
+Avenida Adalgisa Colombo,,Barra Olímpica,Rio de Janeiro,Rio de Janeiro,Brasil,22775-039,2958,MICI PULA
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,2959,MICI PULA
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,2960,MICI PULA
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,2962,MICI PULA
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,2963,MICI PULA
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,2964,MICI PULA
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,2971,AR FAM 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,2980,SUSZAIGA 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,3000,PIUARUR 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,3001,RULMACIASIS 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3008,FRUG FRIZUM 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,3012,CISI PIUEUEMI 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,3016,RO PRISMAUS 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03550-100,3019,CISI PIUEUEMI 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,3021,CISI PILIME 
+Avenida Adalgisa Colombo,,Barra Olímpica,Rio de Janeiro,Rio de Janeiro,Brasil,22775-039,3048,CRUPULICOS 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03550-100,3060,PIGUE PIPACO 
+1048,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01323-001,3062,CISI PIUEUEMI 
+Rua Alberto Samuel Mercante,,Rio de Janeiro,Rio de Janeiro,22775-900,Brasil,22775-900,3063,RIARIMUA
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,3068,PIGUE PIPACO 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,3070,PIGUE PIPACO 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,3071,PIGUE PIPACO 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3077,PIP RU 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,3091,PIGUE PIPACO 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,3097,PIGUE PIPACO 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,3105,PIGUE PIPACO 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,3117,PIPS 
+Rua Alberto Samuel Mercante,,Rio de Janeiro,Rio de Janeiro,22775-900,Brasil,22775-900,3128,GAMGS 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,3162,RULMACIASIS 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,3172,ZIVIMUI 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,3182,MAR 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,3183,MAR 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3185,MAR 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,3218,RUG ICUSSIRAIS AMFIMUAS 
+Rua Alberto Samuel Mercante,,Rio de Janeiro,Rio de Janeiro,22775-900,Brasil,22775-900,3222,PIRMI DA SIPIR 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,3230,SUSZA OIRI 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,3254,PIMOURUA
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,3265,EAVAMI FIGOI 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,3279,SALITO 
+Delboni,,Jardim Parque Morumbi,Vila Andrade,São Paulo,Brasil,05716-150,3284,MZU PIEO SZIP 
+1048,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01323-001,3285,MZU PIEO SZIP 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03550-100,3296,PRAGIEURAI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3322,USPIMI RUPRI MUGRI 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,3324,LIS RUS 
+Rua Dianópolis,,Mooca,São Paulo,São Paulo,Brasil,03127-060,3325,META EASSU PURUMACU 
+Delboni,,Jardim Parque Morumbi,Vila Andrade,São Paulo,Brasil,05716-150,3365,RIOPULLAMU 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,3370,PUGUM 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,3388,SURIMRI 
+Rua Alberto Samuel Mercante,,Rio de Janeiro,Rio de Janeiro,22775-900,Brasil,22775-900,3393,UV LAMU 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,3394,UV LAMU 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,3401,FRUEOU 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,3402,FRUEOU 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3403,FRUEOU 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,3404,FRUEOU 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,3405,PAMOIPIMG 
+Rua Alberto Samuel Mercante,,Rio de Janeiro,Rio de Janeiro,22775-900,Brasil,22775-900,3406,QUAGSALVUR 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3412,RO PISMUAS 
+1048,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01323-001,3418,IMACIS CIRIA
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,3420,MZU PIEO SZIP 
+Aguiarcycles,1092,Rua Mariante,Rio Branco,Porto Alegre,Brasil,90420-150,3422,EURECA 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,3432,RIOPULLAMU 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3433,GRIME CRU 
+Rua Dianópolis,,Mooca,São Paulo,São Paulo,Brasil,03127-060,3434,I PIMACIRAI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3450,GIMAMI 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,3451,PUGUM 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3460,CIRIOURI PURGAR 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3468,RIVUMOI MRIMUIRAI 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,3490,IMO IMO 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,3491,IMO IMO 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,3492,IMO IMO 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,3493,IMO IMO 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,3497,IMO IMO 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,3498,IMO IMO 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3500,MIA 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,3509,GASSA 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3510,PAIRUMOU 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3512,GOI SIPIMUSU 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,3528,ZIM M MUMEUR 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,3530,PRIMI U IRMU 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,3535,CZALLA PUIMS 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,3541,SUGIR PIGURO 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,3546,RIUSSUCIGU 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3553,ILUMGI PRISMAUS 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,3588,IRUZZI 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,3595,IASZPILITA 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,3609,ZIZULO 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,3612,IMIA CIMCUPM 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,3615,GAIVIMUI PIPO 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3625,CIPRU 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3627,O GARI! 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,3631,GIPUMZIGUM 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,3639,SUCOI LIMTRAS 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3641,MRUS GIROUS 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3644,ASOI 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,3646,ZIZULO 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,3648,PAMACIS 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,3688,SIFASMAQA 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,3694,VALLUES CIOLA E CIGU CIE 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,3711,RIRAI IMIA 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3712,RIRAI IMIA 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,3721,PUPALUGALA
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,3723,CZALLA PUIMS QSQ 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,3728,MU PURGAR 
+Confidence Câmbio,91,Rua Domingos Agostim,Vila Azevedo,Tatuapé,Brasil,03314-030,3752,PRIGRIR 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,3766,MRIRI LIP 
+Confidence Câmbio,91,Rua Domingos Agostim,Vila Azevedo,Tatuapé,Brasil,03314-030,3767,PIARUGGAI 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,3770,OUR ZOLAI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,3778,PAZZI ZUM 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3780,SIZMUO RICAUMS 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,3804,TRAPRAM POI 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3808,SPICU CISU 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,3821,PIRMI DA SIPIR 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,3822,SITAO OUCUS 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,3832,GIOUG 
+Minas Shopping,4000,Avenida Cristiano Machado,São Paulo,União,Brasil,31910-900,3835,MUG 
+Confidence Câmbio,91,Rua Domingos Agostim,Vila Azevedo,Tatuapé,Brasil,03314-030,3847,IRIR OIS PUOUMIS 
+Fran's Café,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,3862,SIRSUMG 
+Rua Alberto Samuel Mercante,,Rio de Janeiro,Rio de Janeiro,22775-900,Brasil,22775-900,3884,IRUZZI 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,3902,CIRIRIOU CIRIROI 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,3916,PIPS 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,3919,SALVAI OURAMG 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,3920,PUPALUGALA
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,3930,PALLO MZU GRALA
+1918,,Bigorrilho,Curitiba,Paraná,Brasil,80730-150,3935,MRAIRAEMA 
+Shopping Center Norte,120,Travessa Casalbuono,Bairro da Coroa,Vila Guilherme,Brasil,02089-900,3936,MIUMSAU 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,3937,MRAIRAEMA 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,3938,SFAZI GRALA
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,3943,GARIOLIS 
+Rua Alberto Samuel Mercante,,Rio de Janeiro,Rio de Janeiro,22775-900,Brasil,22775-900,3961,OULU! RUSACIMI 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,3965,PAZZI ZUM 
+Shopping Center Norte,120,Travessa Casalbuono,Bairro da Coroa,Vila Guilherme,Brasil,02089-900,3966,PAZZI ZUM 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,3968,POILA 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,3973,GRIME CRU 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,3984,VAOU SIUOUVUA
+Shopping Center Norte,120,Travessa Casalbuono,Bairro da Coroa,Vila Guilherme,Brasil,02089-900,3986,VUGIM LIVURS 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,3987,POI ILARUMUIMOI 
+Shopping Center Norte,120,Travessa Casalbuono,Bairro da Coroa,Vila Guilherme,Brasil,02089-900,3995,USIFLUS 
+Shopping Center Norte,120,Travessa Casalbuono,Bairro da Coroa,Vila Guilherme,Brasil,02089-900,3996,PASCIAMU 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,4002,IMIA VAMOI RISI 
+Shopping Center Norte,120,Travessa Casalbuono,Bairro da Coroa,Vila Guilherme,Brasil,02089-900,4003,EA POILI 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,4009,CILVAM GLUAM 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,4012,CICI PIRPU 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,4015,GARIOLIS 
+Shopping Center Norte,120,Travessa Casalbuono,Bairro da Coroa,Vila Guilherme,Brasil,02089-900,4016,FACZAPS 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,4022,RALGLIMEAI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,4023,RALGLIMEAI 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,4025,RIARIZAMI 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,4026,RIARIZAMI 
+Shopping Center Norte,120,Travessa Casalbuono,Bairro da Coroa,Vila Guilherme,Brasil,02089-900,4058,MICI PULA
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4064,I CRUPURAI 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,4072,SUCOI LIMTRAS 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,4097,SMITAUR SMUIGZIUSU 
+Assaí Atacadista,1188,Avenida Maracanã,Muda,Tijuca,Brasil,20511-001,4105,SZIPUAMG MASUCI 
+Ciclovia Domingos de Morais,,São Paulo,São Paulo,04038-040,Brasil,04038-040,4109,SZIPUAMG RUMRI SIMUI CRUZ 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,4110,SZIPUAMG SIREAR SUA
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,4121,PIEO FIR SURU 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,4132,RIMI CURVUSUARI 
+Confidence Câmbio,91,Rua Domingos Agostim,Vila Azevedo,Tatuapé,Brasil,03314-030,4139,MIAOIMG 
+Botafogo Praia Shopping,400,Praia de Botafogo,Botafogo,Rio de Janeiro,Brasil,22250-040,4142,CIRIROI U CAI 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4151,OIGPUARO 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,4153,PIP CIRM GIUARUM 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,4157,IARIZOR FAM 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03550-100,4159,OIGPUARO 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4161,ZIPU 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4164,IMUAS 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4165,IMICIPRA 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4167,STRAMZ 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4170,ZIAGIA 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4171,MRICA E FAULE 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4181,ZIVIAIMIS 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4184,LUPI 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4195,IRUZZI 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4199,I PIMACIRAI 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,4200,OIGIPUARRO 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4201,ZIVIMUI 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4202,RAZIPAO 
+Shopping Rio Design Barra,7777,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,4203,IRULAU CRUPURAU 
+Shopping Rio Design Barra,7777,Avenida das Américas,Américas Park,Barra da Tijuca,Brasil,22793-081,4204,SIZI FOIE ERAMGS 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4206,USPUMI RIMAI 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,4207,ARE PIMUAUR 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4208,MAP MIP 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,4210,RCOUMILES 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03550-100,4211,RCOUMILES 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,4213,RCOUMILES 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,4214,RCOUMILES 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4243,IMO IMO 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,4245,ZAMZIMU 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4255,URPIRAI VAGMIRIZZA 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4262,CIPIOURMU 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4264,SALITO 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,4266,SALITO 
+Ponto de Táxi Shopping Santa Cruz,2560,Rua Domingos de Morais,Vila Mariana,São Paulo,Brasil,04036-000,4271,RAMA GILZIMU 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,4272,ILACU SILIZIR 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,4292,P PAZZI 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4296,MZU PIEO SZIP 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,4299,ZISARIS 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,4300,SIM RIRZIMI 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,4302,IMIA VAMOI RISI 
+Rua Alberto Samuel Mercante,,Rio de Janeiro,Rio de Janeiro,22775-900,Brasil,22775-900,4305,RCOUMILES 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,4314,RCOUMILES 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,4315,RCOUMILES 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,4316,RCOUMILES 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4317,PIRPALA 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,4320,CAI RIRAMARI 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,4328,LUPI 
+Shopping Center D,1100,Avenida Cruzeiro do Sul,Canindé,Pari,Brasil,01109-040,4329,MUSPUO SMIRU 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,4334,SILSI GRALA
+Rua Alberto Samuel Mercante,,Rio de Janeiro,Rio de Janeiro,22775-900,Brasil,22775-900,4335,PASCIAMU 
+Shopping Cidade São Paulo,,Morro dos Ingleses,Bela Vista,São Paulo,Brasil,01405-000,4336,MAR 
+Rua Itacaiúna,,São Paulo,São Paulo,05716-150,Brasil,05716-150,4344,CIRACIOU 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,4347,CIRACIOU 
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,4348,CIRACIOU 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,4352,CIRACIOU 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,4354,RUA DA RIMU 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,4355,CIRACIOU 
+Confidence Câmbio,91,Rua Domingos Agostim,Vila Azevedo,Tatuapé,Brasil,03314-030,4373,MICI PULA
+Shopping Vila Olímpia,360,Rua Olimpíadas,Vila Olímpia,Itaim Bibi,Brasil,04551-000,4386,SALITO 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03550-100,4388,RIOPULLAMU 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4389,RUMAR 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4396,LAZ 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,4398,ILACU SILIZIR 
+Rua Esculápio,,Rio de Janeiro,Rio de Janeiro,23042-500,Brasil,23042-500,4402,PIMUCI DA RIMILI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,4403,GIPUMZIGUM QSQ  
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,4434,GIPUMZIGUM 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,4439,IMI MURUZI 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,4440,CICIU SZIS 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,4441,RIRASIA
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,4442,CIMSMIMCU 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,4443,GIPUMZIGUM 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,4447,LU PISMATRA 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,4448,ZIPU 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,4449,CUMOIARAS 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,4451,CZALLA PUIMS 
+Shopping Curitiba,2300,Rua Brigadeiro Franco,Centro,Curitiba,Brasil,80250-130,4452,GIPUMZIGUM 
+Festval Silva Jardim,,Rebouças,Curitiba,Paraná,Brasil,80230-000,4453,GIPUMZIGUM 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,4459,GAESMIG 
+Rua Doutor José da Cruz Carqueijo,,Cangaíba,São Paulo,São Paulo,Brasil,03711-007,4462,RIRIMI 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,4467,MAP MIP 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4483,SIGO 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,4484,VAI RAI 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,4488,RIARI RAI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03550-100,4489,LALACI E MAGIR 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,4491,MIRMU SZIPUAMG 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4498,ARIGAMIRAUR 
+Mooca Plaza Shopping,313,Rua Capitão Pacheco e Chaves,Mooca,Vila Prudente,Brasil,03126-000,4510,OIGPUARO 
+Rua Alberto Samuel Mercante,,Rio de Janeiro,Rio de Janeiro,22775-900,Brasil,22775-900,4512,CIRIROI U CAI 
+Avenida Embaixador Abelardo Bueno,,Rio de Janeiro,Rio de Janeiro,22775-039,Brasil,22775-039,4524,RALIM 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,4531,IRMURAZI SIAIS 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4553,CIARUM SMUOLUMS 
+Tietê Plaza Shopping,1465,Avenida Raimundo Pereira de Magalhães,Grand Reserva Paulista,Pirituba,Brasil,05913-000,4556,RIMAI EU TRAPRISCI 
+Confidence Câmbio,91,Rua Domingos Agostim,Vila Azevedo,Tatuapé,Brasil,03314-030,4558,MIAF 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4559,MIAF 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,4564,ZIVIMUI 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4567,PUGUM 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4568,SAEUSILG 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4572,RIRO RIUGU 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4585,IRUZZI 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4587,PIPUARIGAI 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,4596,LUAZI PIRCULIS 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4605,USPIMI PRIMI 
+BarraShoppingSul,300,Avenida Diário de Notícias,Cristal,Porto Alegre,Brasil,90810-080,4611,SUSZAIGA 
+Morumbi Shopping,1089,Avenida Roque Petroni Júnior,Santo Amaro,São Paulo,Brasil,04707-900,4624,RUMAR 
+Rua Engenheiro Enaldo Cravo Peixoto,,Rio de Janeiro,Rio de Janeiro,20530-230,Brasil,20530-230,4625,RUMAR 
+Hotel Ramada,19021,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Brasil,22790-703,4637,AR TRAMUO 
+Park Shopping Barigüi,,Mossunguê,Curitiba,Paraná,Brasil,80740-050,4645,AIEMAMIMU UM PRIVUMCU 
+Confidence Câmbio,91,Rua Domingos Agostim,Vila Azevedo,Tatuapé,Brasil,03314-030,4648,ILAPIARUGAIMI 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,4650,CICI PIRPU 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4660,CIRUMOI 
+Rua Felisbela Gonçalves,,Vila Formosa,São Paulo,São Paulo,Brasil,03550-100,4664,CIRUMOI 
+Shopping Villa Lobos,4777,Avenida Doutora Ruth Cardoso,Boaçava,Alto de Pinheiros,Brasil,05477-902,4669,CIRUMOI 
+Hospital Sancta Maggiore Paraíso,1137,Rua Maestro Cardim,Bela Vista,Vila Mariana,Brasil,01323-001,4671,CIRUMOI 
+Avenida Dom Hélder Câmara,,Rio de Janeiro,Rio de Janeiro,20771-310,Brasil,20771-310,4675,SIMUI LIMOI 
+215,,Portão,Curitiba,Paraná,Brasil,80610-010,4676,PAMACIS 
+Travessa Simis,,Vila Guilherme,São Paulo,São Paulo,Brasil,02049-015,4679,PIGUE PIPACO 

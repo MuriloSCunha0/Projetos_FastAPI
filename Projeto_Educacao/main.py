@@ -30,7 +30,7 @@ async def consultar_total_dias_letivos():
 
 @app.get('/percentual_faltas_alunos')
 async def consultar_percentual_faltas():
-    return dbu.calcular_porcentagem_faltas()
+    return dbu.calcular_porcentagem_faltas_por_aluno()
 
 @app.get('/percentual_faltas_disciplinas')
 async def consultar_percentual_faltas_disciplinas():
