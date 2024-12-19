@@ -1,24 +1,59 @@
-import csv 
+import csv
 import requests
-from pydantic import BaseModel
+from geopy.distance import geodesic
+from sklearn.cluster import KMeans
+import numpy as np
 import pandas as pd
-import re
-from typing import Optional, List
+from typing import List, Tuple, Dict, Optional
+from pydantic import BaseModel
 
 
-channels = 'channels.csv'
-deliveries = 'deliveries.csv'
-drivers = 'drivers.csv'
-hubs = 'hubs.csv'
-orders = 'orders.csv'
-payments = 'payments.csv'
-stores = 'stores.csv'
+
+channels = 'data\channels.csv'
+deliveries = 'data\deliveries.csv'
+drivers = 'data\drivers.csv'
+hubs = 'data\hubs.csv'
+orders = 'data\orders.csv'
+payments = 'data\payments.csv'
+stores = 'data\stores.csv'
 
 
 def carregar_lojas(stores):
     with open(stores, mode="r", encoding='latin1') as file:
         reader = csv.DictReader(file)
         return list(reader)
+
+def carregar_canais(channels):
+    with open(channels, mode="r", encoding='latin1') as file:
+        reader = csv.DictReader(file)
+        return list(reader)
+
+def carregar_entregas(deliveries):
+    with open(deliveries, mode="r", encoding='latin1') as file:
+        reader = csv.DictReader(file)
+        return list(reader)
+
+def carregar_motoristas(drivers):
+    with open(drivers, mode="r", encoding='latin1') as file:
+        reader = csv.DictReader(file)
+        return list(reader)
+
+def carregar_hubs(hubs):
+    with open(hubs, mode="r", encoding='latin1') as file:
+        reader = csv.DictReader(file)
+        return list(reader)
+
+def carregar_pedidos(orders):
+    with open(orders, mode="r", encoding='latin1') as file:
+        reader = csv.DictReader(file)
+        return list(reader)
+
+def carregar_pagamentos(payments):
+    with open(payments, mode="r", encoding='latin1') as file:
+        reader = csv.DictReader(file)
+        return list(reader)
+
+
 
 # Modelo de dados para a entrada
 class LocationRequest(BaseModel):
@@ -139,4 +174,127 @@ def processar_csv(input_filename: str, output_filename: str):
     print(f"Arquivo processado e salvo como {output_filename}")
 
 
-processar_csv("Projeto_Ifood/store_locations.csv", "Projeto_Ifood/store_locations_tratado.csv")
+def calcular_distancia(store_id1: int, store_id2: int, stores: str) -> Dict:
+    lojas = carregar_lojas(stores)
+    loja1 = next((l for l in lojas if int(l["store_id"]) == store_id1), None)
+    loja2 = next((l for l in lojas if int(l["store_id"]) == store_id2), None)
+
+    if not loja1 or not loja2:
+        raise ValueError("Uma ou ambas as lojas não foram encontradas")
+    
+    coords1 = (float(loja1["store_latitude"]), float(loja1["store_longitude"]))
+    coords2 = (float(loja2["store_latitude"]), float(loja2["store_longitude"]))
+    distance = geodesic(coords1, coords2).kilometers
+    return {"store_id1": store_id1, "store_id2": store_id2, "distance_km": distance}
+
+def encontrar_lojas_proximas(latitude: float, longitude: float, top_n: int, stores: str) -> List[Dict]:
+    lojas = carregar_lojas(stores)
+    user_location = (latitude, longitude)
+    distances = []
+
+    for loja in lojas:
+        try:
+            store_location = (float(loja["store_latitude"]), float(loja["store_longitude"]))
+            distance = geodesic(user_location, store_location).kilometers
+            distances.append({"store_id": loja["store_id"], "store_name": loja["store_name"], "distance_km": distance})
+        except ValueError:
+            continue
+    
+    distances.sort(key=lambda x: x["distance_km"])
+    return distances[:top_n]
+
+def calcular_clusters(n_clusters: int, stores: str) -> List[Dict]:
+    lojas = carregar_lojas(stores)
+    coords = []
+    store_info = []
+
+    for loja in lojas:
+        try:
+            coords.append([float(loja["store_latitude"]), float(loja["store_longitude"])])
+            store_info.append(loja)
+        except ValueError:
+            continue
+
+    if len(coords) < n_clusters:
+        raise ValueError("Número insuficiente de lojas para criar os clusters")
+
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42).fit(coords)
+    clusters = kmeans.labels_
+
+    for i, loja in enumerate(store_info):
+        loja["cluster"] = int(clusters[i])
+
+    return [{"store_id": loja["store_id"], "store_name": loja["store_name"], "cluster": loja["cluster"]} for loja in store_info]
+
+
+def estatisticas_de_distancia(stores: str) -> Dict:
+    lojas = carregar_lojas(stores)
+    coords = []
+
+    for loja in lojas:
+        try:
+            coords.append((float(loja["store_latitude"]), float(loja["store_longitude"])))
+        except ValueError:
+            continue
+
+    distances = [geodesic(c1, c2).kilometers for i, c1 in enumerate(coords) for c2 in coords[i + 1:]]
+    return {
+        "average_distance_km": np.mean(distances),
+        "min_distance_km": np.min(distances),
+        "max_distance_km": np.max(distances)
+    }
+
+def channel_analysis(filepath: str):
+    df = pd.read_csv(filepath)
+    channel_counts = df["channel_type"].value_counts()
+    return {
+        "total_channels": len(df),
+        "channels_by_type": channel_counts.to_dict(),
+    }
+
+def delivery_statistics(filepath: str):
+    df = pd.read_csv(filepath)
+    delivered = df[df["delivery_status"] == "DELIVERED"]
+    cancelled = df[df["delivery_status"] == "CANCELLED"]
+    return {
+        "total_deliveries": len(df),
+        "average_distance_meters": delivered["delivery_distance_meters"].mean(),
+        "delivered_count": len(delivered),
+        "cancelled_count": len(cancelled),
+    }
+
+def driver_statistics(filepath: str):
+    df = pd.read_csv(filepath)
+    modal_counts = df["driver_modal"].value_counts()
+    type_counts = df["driver_type"].value_counts()
+    return {
+        "total_drivers": len(df),
+        "drivers_by_modal": modal_counts.to_dict(),
+        "drivers_by_type": type_counts.to_dict(),
+    }
+
+def order_cancellation_rate(filepath: str):
+    df = pd.read_csv(filepath)
+    cancelled = len(df[df["order_status"] == "CANCELED"])
+    finished = len(df[df["order_status"] == "FINISHED"])
+    total = cancelled + finished
+    return {
+        "total_orders": len(df),
+        "cancellation_rate": cancelled / total if total > 0 else 0,
+    }
+
+def average_ticket(filepath: str):
+    df = pd.read_csv(filepath)
+    finished = df[df["order_status"] == "FINISHED"]
+    return {"average_ticket": finished["order_amount"].mean()}
+
+def payment_statistics(filepath: str):
+    df = pd.read_csv(filepath)
+    payment_methods = df["payment_method"].value_counts()
+    average_fee = df["payment_fee"].mean()
+    return {
+        "total_payments": len(df),
+        "average_fee": average_fee,
+        "payment_methods": payment_methods.to_dict(),
+    }
+    

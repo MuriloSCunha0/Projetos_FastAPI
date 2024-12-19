@@ -1,13 +1,31 @@
 from fastapi import FastAPI, HTTPException
-from utils import carregar_lojas, get_location_name, save_store_locations_to_csv, processar_csv
+from utils import (
+    carregar_lojas, 
+    get_location_name, 
+    save_store_locations_to_csv, 
+    processar_csv, 
+    calcular_distancia, 
+    encontrar_lojas_proximas, 
+    calcular_clusters, 
+    estatisticas_de_distancia,
+    channel_analysis,
+    delivery_statistics,
+    driver_statistics,
+    order_cancellation_rate,
+    average_ticket,
+    payment_statistics,
+)
 
 app = FastAPI()
-stores = 'stores.csv'
-stores_locations = 'Projeto_Ifood\store_locations.csv'
+stores = 'data\stores.csv'
 
 @app.get('/root')
 async def root():
     return {'message': 'Hello World'}
+
+@app.get("/load-stores")
+async def load_stores():
+    carregar_lojas(stores)
 
 @app.get("/store-location/{store_id}")
 def get_store_location(store_id: int):
@@ -31,44 +49,45 @@ def get_store_location(store_id: int):
     else:
         raise HTTPException(status_code=400, detail="Coordenadas ausentes para a loja")
 
-@app.get("/all-store-locations")
-def get_all_store_locations():
-    lojas = carregar_lojas(stores)
-    resultados = []
+@app.get("/distance-between-stores/{store_id1}/{store_id2}")
+def distance_between_stores(store_id1: int, store_id2: int):
+    return calcular_distancia(store_id1, store_id2, stores)
 
-    for loja in lojas:
-        latitude = loja.get("store_latitude")
-        longitude = loja.get("store_longitude")
+@app.get("/nearest-stores")
+def nearest_stores(latitude: float, longitude: float, top_n: int = 5):
+    return encontrar_lojas_proximas(latitude, longitude, top_n, stores)
 
-        if latitude and longitude:
-            try:
-                latitude = float(latitude)
-                longitude = float(longitude)
-                local_name = get_location_name(latitude, longitude)
-                resultados.append({
-                    "store_id": loja["store_id"],
-                    "store_name": loja["store_name"],
-                    "location_name": local_name
-                })
-            except ValueError:
-                resultados.append({
-                    "store_id": loja["store_id"],
-                    "store_name": loja["store_name"],
-                    "location_name": "Coordenadas inválidas"
-                })
-        else:
-            resultados.append({
-                "store_id": loja["store_id"],
-                "store_name": loja["store_name"],
-                "location_name": "Coordenadas ausentes"
-            })
+@app.get("/store-clusters")
+def store_clusters(n_clusters: int = 3):
+    return calcular_clusters(n_clusters, stores)
 
-    return resultados
 
-@app.get("/save-store-locations")
-def save_store_locations():
-    lojas = carregar_lojas(stores)
-    save_store_locations_to_csv(lojas, "store_locations.csv")
-    return {"message": "Localizações das lojas salvas com sucesso!"}
 
-    
+@app.get("/distance-statistics")
+def distance_statistics():
+    return estatisticas_de_distancia(stores)
+
+@app.get("/channel-analysis")
+def get_channel_analysis():
+    return channel_analysis("data/channels.csv")
+
+@app.get("/delivery-statistics")
+def get_delivery_statistics():
+    return delivery_statistics("data/deliveries.csv")
+
+@app.get("/driver-statistics")
+def get_driver_statistics():
+    return driver_statistics("data/drivers.csv")
+
+
+@app.get("/order-cancellation-rate")
+def get_order_cancellation_rate():
+    return order_cancellation_rate("data/orders.csv")
+
+@app.get("/average-ticket")
+def get_average_ticket():
+    return average_ticket("data/orders.csv")
+
+@app.get("/payment-statistics")
+def get_payment_statistics():
+    return payment_statistics("data/payments.csv")
